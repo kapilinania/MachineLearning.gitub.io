@@ -33,23 +33,23 @@ Feel free to explore and use these resources for your learning and project needs
   bash
    git clone https://github.com/kapilinania/Machine_Learning.gitub.io.git
 
-##Explore the folders and files to find the materials that interest you.
+## Explore the folders and files to find the materials that interest you.
 
 If you want to contribute or have any questions, please open an issue or create a pull request. We'd love to hear from you!
 
-##Contributing 🤝
+## Contributing 🤝
 We welcome contributions! If you have machine learning projects, tutorials, or resources that you'd like to share, feel free to contribute. Follow these steps:
 
-##Fork this repository.
+## Fork this repository.
 
-Create a new branch with a descriptive name:
+### Create a new branch with a descriptive name:
 git checkout -b feature/your-feature-name
 
 Add your contribution.
 
-Commit your changes:
+## Commit your changes:
 git commit -m "Added your feature or resource"
-Push to your fork:
+### Push to your fork:
 git push origin feature/your-feature-name
 
 Create a pull request to merge your changes into this repository.
