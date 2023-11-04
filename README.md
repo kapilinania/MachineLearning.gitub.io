@@ -56,7 +56,7 @@ Create a pull request to merge your changes into this repository.
 
 We'll review your contribution and, if it aligns with the repository's goals, merge it. Thank you for your support!
 
-##License 📜
+## License 📜
 This repository is licensed under the MIT License, which means you are free to use, modify, and distribute the content as long as you provide proper attribution. Please read the license for more details.
 
 Enjoy your machine learning journey! If you have any questions or need assistance, don't hesitate to ask. 🤖👨‍💻
